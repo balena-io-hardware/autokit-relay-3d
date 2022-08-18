@@ -2,7 +2,7 @@
 
 The design was created using [Onshape](https://www.onshape.com/en/) which is a cloud based cad platform.
 
-The current version of the design can be accessed [here](https://cad.onshape.com/documents/34e52f69664fd15550ba35ad/w/5abb2d265c5abd27c227e7a7/e/b3a911c86048cfb278f7aa6c?renderMode=0&uiState=62dad8318237a701f534681a)
+The current version of the design can be accessed [here](https://cad.onshape.com/documents/6708fa4a223ba561cfee81c3/v/91d5132fb2983cd48c57086d/e/0ce3e6e11e59d396f5d56dab?renderMode=0&uiState=62fe887a176e14202d704955)
 
 This will link to a version of the design.
 
