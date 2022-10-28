@@ -1,0 +1,109 @@
+- commits:
+    - subject: Convert to Flowzone
+      hash: afb76d002be34e51398fb5a3bdd9951e086e81e3
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+        signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+      author: Pedro Henrique Kopper
+      nested: []
+  version: 1.1.0
+  title: ""
+  date: 2022-10-28T14:41:34.124Z
+- version: 1.0.0
+  date: 2022-10-21T08:54:55Z
+  commits:
+    - hash: 5a38cfa80022b0ae20d1b040f3986213d62ed757
+      author: Pedro Henrique Kopper
+      footers:
+        change-type: major
+        signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+      subject: Changed box layout to fit double relay board
+      body: |-
+        * Widened PCB support to allow fitting the larger board (#2)
+        * Widened the box itself to ease wiring
+        * Moved Skadis mounting holes to bottom part (#5)
+    - hash: 4f16a643bfd500e7c15735b2802590f1ca1f31e6
+      author: Pedro Henrique Kopper
+      footers:
+        change-type: major
+        signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+      subject: Add double relay support
+      body: null
+- version: 0.1.0
+- date: 2022-09-12T07:10:28Z
+- commits:
+    - hash: d75c13d4586b7ce7a41208ef6644c75436ba3b46
+- commits:
+    - author: rcooke-warwick
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+- commits:
+    - subject: Add initial files and documentation
+- commits:
+    - body: |-
+        fix diagram and update design based on prototype
+        Update commands to consider serial number
+        Point link to new CAD design
+        Update testing instructions
+        Update spec.json to new CAD link
+        Add assembly instructions
+        Misc proofreading
+        Update BoM
+        Fix README.md block diagram
+- commits:
+    - hash: 9c6e88e4363853e080b8fdda19fb55daffe87d9f
+- commits:
+    - author: Pedro Henrique Kopper
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+- commits:
+    - subject: Remove extra output files
+- commits:
+    - body: null
+- commits:
+    - hash: 21afebd4506100b3aa69fd750121affa80b0e280
+- commits:
+    - author: konmouz
+- commits:
+    - subject: case design update
+- commits:
+    - body: >-
+        - Reduced the overall size of the case
+
+        - Reduced the size of the C13/C14 holes - the screw can self thread
+
+        - Made an opening under the PCB for the solder pins to not collide with the case
+
+        - The bottom part is designed to push the relay against the top part and lock it in place with no screws
+
+        - Added 4 pegs at the bottom for alignment with the top
+
+        - Changed the top and bottom corner radiuses so it prints without support reliably
+
+        Change-type: minor
+- commits:
+    - hash: 6ae2009c8d2a1ac211497737d1ed9cf98e71062c
+- commits:
+    - author: Pedro Henrique Kopper
+- commits:
+    - footers:
+        signed-off-by: Pedro Henrique Kopper <pedro.kopper@balena.io>
+- commits:
+    - subject: case design update
+- commits:
+    - body: |-
+        - Increased width for better strain relief
+        - Added Skadis mounting tabs
+        - Increased screw-on connector hole size to 2mm
+        Change-type: minor
