@@ -1,4 +1,18 @@
 - commits:
+    - subject: update BoM and assembly guide
+      hash: 94e338e0e8ebc0836e3ff4de524b0904e443d0f5
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+  version: 1.1.1
+  title: ""
+  date: 2023-01-13T12:26:26.542Z
+- commits:
     - subject: Convert to Flowzone
       hash: afb76d002be34e51398fb5a3bdd9951e086e81e3
       body: ""
