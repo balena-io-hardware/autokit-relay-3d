@@ -1,4 +1,18 @@
 - commits:
+    - subject: make bom a csv instead of markdown
+      hash: faa36d93a4d2e3210f8ac284567215ddf19ebf20
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+  version: 1.1.2
+  title: ""
+  date: 2023-01-17T10:59:17.417Z
+- commits:
     - subject: update BoM and assembly guide
       hash: 94e338e0e8ebc0836e3ff4de524b0904e443d0f5
       body: ""
