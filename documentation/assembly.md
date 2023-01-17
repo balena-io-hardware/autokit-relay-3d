@@ -1,6 +1,6 @@
 # Assembly guide
 
-The bill of materials for the assembly can be found [here](../source/BoM/bom.md)
+The bill of materials for the assembly can be found [here](../source/BoM/bom.csv)
 
 ![Wiring diagram](https://docs.google.com/drawings/d/e/2PACX-1vTsVebLCV5xOCOP7e8MOFAZS-pnqpgaU0UeKEsrxiiekd_nlwJRW8BvfpLmfiG9eoDodftNeQdaIt7_/pub?w=960&h=720)
 
